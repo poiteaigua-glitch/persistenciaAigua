@@ -35,7 +35,22 @@
         "fecha": "14/08/2015",
         "entradilla": "notificacion",
         "cuerpo": "Integer sem elit, interdum id porta ut, aliquet mattis quam. Maecenas dictum, ex at ultricies maximus, arcu ligula accumsan purus, sed sodales lorem arcu eget dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis vulputate leo, vel consequat nunc scelerisque sed. Nam velit eros, accumsan ut porta venenatis, mattis vehicula erat. Aliquam erat volutpat. Phasellus ut aliquet nisl, sit amet pharetra nibh. Fusce vehicula eros nec arcu rutrum finibus. Sed facilisis feugiat nunc, ac molestie libero fringilla sed. Proin congue, ipsum non posuere fermentum, velit dolor elementum ex, sed malesuada ante enim in tellus. Donec non lorem a sem scelerisque dictum. Praesent et urna lorem. Proin eget purus et purus volutpat ultricies. Donec sit amet arcu neque.",
-        "foto": "kfkfokeokekfo.jpg",
+        "foto": ["kfkfokeokekfo.jpg"],
+        "pieFoto": "tremenda foto",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    },
+    "entrada4": {
+        "titulo": "vacaciones",
+        "sub-titulo": "pruebota",
+        "fecha": "14/08/2015",
+        "entradilla": "notificacion",
+        "cuerpo": "Integer sem elit, interdum id porta ut, aliquet mattis quam. Maecenas dictum, ex at ultricies maximus, arcu ligula accumsan purus, sed sodales lorem arcu eget dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin iaculis vulputate leo, vel consequat nunc scelerisque sed. Nam velit eros, accumsan ut porta venenatis, mattis vehicula erat. Aliquam erat volutpat. Phasellus ut aliquet nisl, sit amet pharetra nibh. Fusce vehicula eros nec arcu rutrum finibus. Sed facilisis feugiat nunc, ac molestie libero fringilla sed. Proin congue, ipsum non posuere fermentum, velit dolor elementum ex, sed malesuada ante enim in tellus. Donec non lorem a sem scelerisque dictum. Praesent et urna lorem. Proin eget purus et purus volutpat ultricies. Donec sit amet arcu neque.",
+        "foto": ["images.png"],
         "pieFoto": "tremenda foto",
         "clasificacion": "institucional",
         "autor": "Poite",
