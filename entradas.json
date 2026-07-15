@@ -1,5 +1,19 @@
 {
-    "entrada": {
+    "entrada4":{
+        "titulo": "Coordinación",
+        "sub-titulo": "Temas de coordinación de la fecha",
+        "fecha": "15/07/2026",
+        "entradilla": "Profesores",
+        "cuerpo": "Equipo de docencia indirecta presentaran los proyectos de acompañamiento",
+        "foto": [],
+        "pieFoto": "tremenda foto",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    },"entrada": {
         "titulo": "Pruebas semestrales",
         "sub-titulo": "Fechas y horas de Pruebas semestrales",
         "fecha": "14/07/2026",
