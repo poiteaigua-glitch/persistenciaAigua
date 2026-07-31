@@ -1,5 +1,19 @@
 {
-    "entrada4":{
+    "entrada5":{
+        "titulo": "Jornada de observación astronómica",
+        "sub-titulo": "Invitación de parte de los estudiantes de 1ero de EMS",
+        "fecha": "05/08/2026",
+        "entradilla": "Profesores, familiares y alumnos",
+        "cuerpo": "Estudiantes de 1ero de EMS invitan a toda la comunidad educativa a la jornada de observación astronómica que se realizará en la plaza de la cudad de Aiguá, donde se podrán observar el cielo nocturno. Habrá venta de comidas caseras",
+        "foto": ["jornada observacion.jpg"],
+        "pieFoto": "tremenda foto",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    },"entrada4":{
         "titulo": "Coordinación",
         "sub-titulo": "Temas de coordinación de la fecha",
         "fecha": "15/07/2026",

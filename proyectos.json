@@ -14,4 +14,21 @@
             "probando"
         ]
     }
+    ,
+    "proyecto2": {
+        "titulo": "Bajo el mismo cielo",
+        "sub-titulo": "Proyecto de observación astronómica y fotografía",
+        "fecha": "24/06/2026",
+        "entradilla": "proyecto",
+        "cuerpo": "¿Cómo podemos embellecer el patio del liceo mientras creamos un espacio funcional para la observación astronómica que inspire a la comunidad educativa a explorar el cielo, el arte y el entorno?  <a href='https://bajoelmismocieloaigua.wordpress.com/'> </a>",
+        "fotos": [],
+        "pieFoto": "tremenda foto",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    }
+    
 }
