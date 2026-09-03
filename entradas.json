@@ -1,5 +1,47 @@
 {
-    "entrada5":{
+    "entrada8":{
+        "titulo": "Feria educativa",
+        "sub-titulo": "Los alumnos dedicarán un día a la limpieza de sus respectivos salones de clase",
+        "fecha": "8/10/2026",
+        "entradilla": "Profesores, familiares y alumnos",
+        "cuerpo": "El Liceo Aiguá invita a toda la comunidad educativa a la feria educativa que se realizará en el liceo, donde se podrán observar los trabajos realizados por los alumnos de EBI y EMS. En la imagén a continuación tienen más información sobre la feria educativa.y el QR con la invitación a otros participantes.",
+        "foto": ["Feria educativa.jpg"],
+        "pieFoto": "Foto con la información de la feria educativa",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    },"entrada7":{
+        "titulo": "Feria educativa",
+        "sub-titulo": "Los alumnos dedicarán un día a la limpieza de sus respectivos salones de clase",
+        "fecha": "8/10/2026",
+        "entradilla": "Profesores, familiares y alumnos",
+        "cuerpo": "El Liceo Aiguá invita a toda la comunidad educativa a la feria educativa que se realizará en el liceo, donde se podrán observar los trabajos realizados por los alumnos de EBI y EMS. En la imagén a continuación tienen más información sobre la feria educativa.y el QR con la invitación a otros participantes.",
+        "foto": ["Feria educativa.jpg"],
+        "pieFoto": "Foto con la información de la feria educativa",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    },"entrada6":{
+        "titulo": "Jornada de limpieza",
+        "sub-titulo": "Los alumnos dedicarán un día a la limpieza de sus respectivos salones de clase",
+        "fecha": "05/07/2026",
+        "entradilla": "Profesores, familiares y alumnos",
+        "cuerpo": "Estudiantes de EBI  y EMS pondrán todo su empeaño en la limpieza de sus respectivos salones, llevando a cabo actividades como limpieas de mesas, vidrios y pisos.",
+        "foto": ["jornada de limpieza.jpg"],
+        "pieFoto": "afiche dle evento para EBI",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    },"entrada5":{
         "titulo": "Jornada de observación astronómica",
         "sub-titulo": "Invitación de parte de los estudiantes de 1ero de EMS",
         "fecha": "05/08/2026",
