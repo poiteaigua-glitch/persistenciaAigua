@@ -1,10 +1,10 @@
 {
     "entrada8":{
         "titulo": "Alumnos de Aiguá calificando en eventos a nivel nacional",
-        "sub-titulo": "Los alumnos dedicarán un día a la limpieza de sus respectivos salones de clase",
+        "sub-titulo": "En el Semanario Aiguá se comunicó sobre las hazañas de nuestros alumnos en eventos a nivel departamental y que clasificarón a novel nacional.",
         "fecha": "8/10/2026",
         "entradilla": "Profesores, familiares y alumnos",
-        "cuerpo": "El Liceo Aiguá invita a toda la comunidad educativa a la feria educativa que se realizará en el liceo, donde se podrán observar los trabajos realizados por los alumnos de EBI y EMS. En la imagén a continuación tienen más información sobre la feria educativa.y el QR con la invitación a otros participantes.",
+        "cuerpo": "",
         "foto": ["Noticia liceo.jpg"],
         "pieFoto": "Foto con la información de la feria educativa",
         "clasificacion": "institucional",
