@@ -1,5 +1,20 @@
 {
-    "entrada8":{
+
+    "entrada9":{
+        "titulo": "Alumnos de Aiguá calificando en eventos a nivel nacional",
+        "sub-titulo": "En el Semanario Aiguá se comunicó sobre las hazañas de nuestros alumnos en eventos a nivel departamental y que clasificarón a novel nacional.",
+        "fecha": "8/10/2026",
+        "entradilla": "Profesores, familiares y alumnos",
+        "cuerpo": "",
+        "foto": ["Noticia liceo.jpg"],
+        "pieFoto": "Foto con la información de la feria educativa",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    },"entrada8":{
         "titulo": "Alumnos de Aiguá calificando en eventos a nivel nacional",
         "sub-titulo": "En el Semanario Aiguá se comunicó sobre las hazañas de nuestros alumnos en eventos a nivel departamental y que clasificarón a novel nacional.",
         "fecha": "8/10/2026",
