@@ -3,12 +3,12 @@
 
 
     "entrada9":{
-        "titulo": "Alumnos de Aiguá calificando en eventos a nivel nacional",
-        "sub-titulo": "En el Semanario Aiguá se comunicó sobre las hazañas de nuestros alumnos en eventos a nivel departamental y que clasificarón a novel nacional.",
-        "fecha": "8/10/2026",
+        "titulo": "Fiesta de la primavera",
+        "sub-titulo": "Se realizará una jornada de actividades para celebrar la llegada de la primavera, contamos con el apoyo de la intendencia que nos proporcionará audio y consolas de juegos, por lo que habrá  disfraces, música y mucha diversión.",
+        "fecha": "17/9/2026",
         "entradilla": "Profesores, familiares y alumnos",
         "cuerpo": "",
-        "foto": ["Noticia liceo.jpg"],
+        "foto": ["primavera.jpg"],
         "pieFoto": "Foto con la información de la feria educativa",
         "clasificacion": "institucional",
         "autor": "Poite",
@@ -19,7 +19,7 @@
     },"entrada8":{
         "titulo": "Alumnos de Aiguá calificando en eventos a nivel nacional",
         "sub-titulo": "En el Semanario Aiguá se comunicó sobre las hazañas de nuestros alumnos en eventos a nivel departamental y que clasificarón a novel nacional.",
-        "fecha": "8/10/2026",
+        "fecha": "2/9/2026",
         "entradilla": "Profesores, familiares y alumnos",
         "cuerpo": "",
         "foto": ["Noticia liceo.jpg"],
