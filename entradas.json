@@ -2,6 +2,34 @@
 
 
 
+    "entrada11":{
+        "titulo": "Fumigación del liceo",
+        "sub-titulo": "Se realizará la fumigación del liceo el día 18 de septiembre, por lo que se solicita a los alumnos y profesores no asistir al liceo ese día.",
+        "fecha": "18/9/2026",
+        "entradilla": "Profesores, familiares y alumnos",
+        "cuerpo": "",
+        "pieFoto": "Foto con la información de la feria educativa",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    },"entrada10":{
+        "titulo": "Noviazgos libres de violencia",
+        "sub-titulo": "A las 11 de la mañana se les invitará a los alumnos parrticipar en el taller con dicho nombre a cargo dle grupo 'Carne'",
+         "fecha": "16/9/2026",
+        "entradilla": "Profesores, familiares y alumnos",
+        "cuerpo": "",
+        "foto": ["noviazgos libres de violencia.jpg"],
+        "pieFoto": "Foto con la información de la feria educativa",
+        "clasificacion": "institucional",
+        "autor": "Poite",
+        "tags": [
+            "prueba",
+            "probando"
+        ]
+    },
     "entrada9":{
         "titulo": "Fiesta de la primavera",
         "sub-titulo": "Se realizará una jornada de actividades para celebrar la llegada de la primavera, contamos con el apoyo de la intendencia que nos proporcionará audio y consolas de juegos, por lo que habrá  disfraces, música y mucha diversión.",
