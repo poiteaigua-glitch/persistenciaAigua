@@ -8,6 +8,8 @@
         "fecha": "18/9/2026",
         "entradilla": "Profesores, familiares y alumnos",
         "cuerpo": "",
+        "foto": [""],
+        
         "pieFoto": "Foto con la información de la feria educativa",
         "clasificacion": "institucional",
         "autor": "Poite",
